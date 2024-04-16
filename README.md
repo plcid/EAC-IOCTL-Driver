@@ -1,4 +1,4 @@
 # EAC-IOCTL-Driver
-Simple IOCTL Driver To Bypass EAC
+Simple ~Un~detected IOCTL Driver
 
-[This is probably not undetected by the time this is viewed]
+This does not include a usermode, you must implement that if you wish to use this.
